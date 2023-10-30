@@ -1,1 +1,1 @@
-hello - dev change
+print('hello world')
