@@ -32,7 +32,7 @@
 
 n = int(input())
 iteration = 0
-for i in range(2, n):
+for i in range(2, n + 1):
     iteration += 1
     if not i % 2:
         if iteration % 5:
